@@ -1,9 +1,9 @@
-<h1 align="center"> A Portfolio Website </h1>
+<h1 align="center"> Hello World!, I am Alok Tiwari </h1>
 <p align="center"> 
   <img src="https://www.digitong.be/wp-content/uploads/2020/08/TwG-US-Thought-Starter-2020-08-24-banner-img.gif" alt="Sample signal" width="70%" height="70%">
 </p>
 <h2
-# Ikuku-Success.github.io 
+# ER-ALOK.github.io 
 <!-- Content -->
 <h2 id="Content"><p>&#128193; Files</p></h2>
 <details open="open">
